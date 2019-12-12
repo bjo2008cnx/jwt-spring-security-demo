@@ -1,9 +1,8 @@
 ## 环境
  Maven 3.6.x and Java 8.
 
-## Usage
-Just start the application with the Spring Boot maven plugin (`mvn spring-boot:run`). The application is
-running at [http://localhost:8080](http://localhost:8080).
+## 使用
+启动： [http://localhost:8080](http://localhost:8080).
 
 You can use the **H2-Console** for exploring the database under [http://localhost:8080/h2-console](http://localhost:8080/h2-console):
 
